@@ -23,6 +23,11 @@ cmake --build build -j
 ./build/tray_web_server --app-root /path/to/tray-web
 ```
 
+## 相关项目
+
+- [tray-web](https://github.com/Theqiqi/tray-web)：集成本服务的完整 Web 面板
+- [tray-core](https://github.com/Theqiqi/tray-core)：通过面板进行管理的 Linux C++ 代理内核
+
 ## 许可证
 
 本项目非商用免费，但必须保留署名。

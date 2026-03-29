@@ -25,6 +25,11 @@ cmake --build build -j
 ./build/tray_web_server --app-root /path/to/tray-web
 ```
 
+## Related Projects
+
+- [tray-web](https://github.com/Theqiqi/tray-web): the full web panel that embeds this server
+- [tray-core](https://github.com/Theqiqi/tray-core): the Linux C++ proxy runtime managed through the panel
+
 ## License
 
 This project is free for non-commercial use, but attribution is required.
